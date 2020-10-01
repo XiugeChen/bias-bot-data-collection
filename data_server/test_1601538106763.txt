@@ -1,2 +1,0 @@
-#### Gaze data point format: server_pc_time,record_computer_time,data_type,screen_x,screen_y,left_x_per,left_y_per,right_x_per,right_y_per
-#### Face infrared data point format: server_pc_time,record_computer_time,data_type,participant_name,face_head_tep,nose_tmp
